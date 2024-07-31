@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:disk",
+    "config": {
+        "half_height": 1,
+        "radius": {
+            "type": "minecraft:uniform",
+            "max_inclusive": 4,
+            "min_inclusive": 0
+        },
+        "state_provider": {
+            "fallback": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                    "Name": "minecraft:rooted_dirt"
+                }
+            },
+            "rules": [
+                {
+                    "if_true": {
+                        "type": "minecraft:not",
+                        "predicate": {
+                            "type": "minecraft:solid",
+                            "offset": [
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    },
+                    "then": {
+                        "type": "minecraft:simple_state_provider",
+                        "state": {
+                            "Name": "minecraft:podzol"
+                        }
+                    }
+                }
+            ]
+        },
+        "target": {
+            "type": "minecraft:matching_block_tag",
+            "tag": "chronicle:wasteland/soft_ground"
+        }
+    }
+}

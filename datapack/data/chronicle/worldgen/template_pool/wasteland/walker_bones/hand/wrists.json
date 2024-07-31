@@ -1,0 +1,30 @@
+{
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/walker_bones/hand/wrist_left",
+                "processors": [],
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/walker_bones/hand/wrist_right",
+                "processors": [],
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:empty_pool_element",
+                "processors": []
+            },
+            "weight": 1
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

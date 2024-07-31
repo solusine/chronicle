@@ -1,0 +1,42 @@
+{
+    "feature": "chronicle:wasteland/ore_mud",
+    "placement": [
+        {
+            "type": "minecraft:count",
+            "count": 16
+        },
+        {
+            "type": "minecraft:in_square"
+        },
+        {
+            "type": "minecraft:height_range",
+            "height": {
+                "type": "minecraft:uniform",
+                "max_inclusive": {
+                    "absolute": 48
+                },
+                "min_inclusive": {
+                    "absolute": 24
+                }
+            }
+        },
+        {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+                "type": "minecraft:not",
+                "predicate": {
+                    "type": "minecraft:matching_blocks",
+                    "offset": [
+                        0,
+                        2,
+                        0
+                    ],
+                    "blocks": "minecraft:air"
+                }
+            }
+        },
+        {
+            "type": "minecraft:biome"
+        }
+    ]
+}

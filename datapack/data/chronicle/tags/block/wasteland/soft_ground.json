@@ -1,0 +1,9 @@
+{
+    "values": [
+        "minecraft:packed_mud",
+        "minecraft:mud",
+        "minecraft:coarse_dirt",
+        "minecraft:rooted_dirt",
+        "minecraft:podzol"
+    ]
+}

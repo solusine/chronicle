@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:mul",
+    "argument1": -2,
+    "argument2": {
+        "type": "minecraft:add",
+        "argument1": -0.3333,
+        "argument2": {
+            "type": "minecraft:abs",
+            "argument": {
+                "type": "minecraft:add",
+                "argument1": -0.6666,
+                "argument2": {
+                    "type": "minecraft:abs",
+                    "argument": "chronicle:wasteland/ridges"
+                }
+            }
+        }
+    }
+}

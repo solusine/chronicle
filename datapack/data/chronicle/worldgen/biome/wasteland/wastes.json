@@ -1,0 +1,60 @@
+{
+    "carvers": {},
+    "downfall": 0.0,
+    "effects": {
+        "fog_color": 13673079,
+        "mood_sound": {
+            "block_search_extent": 8,
+            "offset": 2.0,
+            "sound": "minecraft:ambient.cave",
+            "tick_delay": 6000
+        },
+        "particle": {
+            "options": {
+                "type": "minecraft:ash"
+            },
+            "probability": 0.0111
+        },
+        "sky_color": 13143643,
+        "water_color": 12483649,
+        "water_fog_color": 4862234
+    },
+    "features": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "chronicle:wasteland/ore_packed_mud",
+            "chronicle:wasteland/ore_mud",
+            "chronicle:wasteland/ore_coarse_dirt",
+            "chronicle:wasteland/ore_rooted_dirt",
+            "chronicle:wasteland/ore_red_sand"
+        ],
+        [],
+        [],
+        [
+            "chronicle:wasteland/tree_dead",
+            "chronicle:wasteland/patch_bush",
+            "chronicle:wasteland/patch_cactus"
+        ],
+        [
+            "chronicle:wasteland/patch_fire"
+        ]
+    ],
+    "has_precipitation": true,
+    "spawn_costs": {},
+    "spawners": {
+        "ambient": [],
+        "axolotls": [],
+        "creature": [],
+        "misc": [],
+        "monster": [],
+        "underground_water_creature": [],
+        "water_ambient": [],
+        "water_creature": []
+    },
+    "temperature": 1.8
+}

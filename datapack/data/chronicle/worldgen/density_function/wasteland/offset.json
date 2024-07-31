@@ -1,0 +1,1491 @@
+{
+    "type": "minecraft:flat_cache",
+    "argument": {
+        "type": "minecraft:cache_2d",
+        "argument": {
+            "type": "minecraft:add",
+            "argument1": -0.5555,
+            "argument2": {
+                "type": "minecraft:spline",
+                "spline": {
+                    "coordinate": "chronicle:wasteland/continents",
+                    "points": [
+                        {
+                            "derivative": 0.0,
+                            "location": -1.1111,
+                            "value": 0.0444
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": -1.0,
+                            "value": -0.2222
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": -0.5555,
+                            "value": -0.2222
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": -0.4444,
+                            "value": -0.1111
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": -0.2222,
+                            "value": -0.1111
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": -0.1111,
+                            "value": {
+                                "coordinate": "chronicle:wasteland/erosion",
+                                "points": [
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.8888,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.3333,
+                                                    "location": -1.0,
+                                                    "value": -0.0888
+                                                },
+                                                {
+                                                    "derivative": 0.3333,
+                                                    "location": 1.0,
+                                                    "value": 0.7777
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.3141592653,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.3141592653,
+                                                    "location": 1.0,
+                                                    "value": 0.6666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.7777,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.6666,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.5555,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.2222,
+                                                    "location": 0.6666,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.2222,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.3333,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.3333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0777,
+                                                    "location": 1.0,
+                                                    "value": 0.0666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.1111,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.1111,
+                                                    "location": 0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0777,
+                                                    "location": 1.0,
+                                                    "value": 0.0666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.2222,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 1.0,
+                                                    "value": 0.0
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.0222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.06,
+                                                    "location": 0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 1.0,
+                                                    "value": 0.0
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": -0.1111,
+                            "value": {
+                                "coordinate": "chronicle:wasteland/erosion",
+                                "points": [
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.8888,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.3333,
+                                                    "location": -1.0,
+                                                    "value": -0.0888
+                                                },
+                                                {
+                                                    "derivative": 0.3333,
+                                                    "location": 1.0,
+                                                    "value": 0.7777
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.3141592653,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.3141592653,
+                                                    "location": 1.0,
+                                                    "value": 0.6666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.7777,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.6666,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.5555,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.2222,
+                                                    "location": 0.6666,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.2222,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.3333,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.3333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0777,
+                                                    "location": 1.0,
+                                                    "value": 0.0666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.1111,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.1111,
+                                                    "location": 0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0777,
+                                                    "location": 1.0,
+                                                    "value": 0.0666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.2222,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 1.0,
+                                                    "value": 0.0
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.0222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.06,
+                                                    "location": 0.4444,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 1.0,
+                                                    "value": 0.0
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": -0.1111,
+                            "value": {
+                                "coordinate": "chronicle:wasteland/erosion",
+                                "points": [
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.8888,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.3333,
+                                                    "location": -1.0,
+                                                    "value": -0.0888
+                                                },
+                                                {
+                                                    "derivative": 0.3333,
+                                                    "location": 1.0,
+                                                    "value": 0.7777
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.3141592653,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.3141592653,
+                                                    "location": 1.0,
+                                                    "value": 0.6666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.7777,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.6666,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.5555,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.2222,
+                                                    "location": 0.6666,
+                                                    "value": 0.0
+                                                },
+                                                {
+                                                    "derivative": 0.2222,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.3333,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0777,
+                                                    "location": 1.0,
+                                                    "value": 0.0666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.1111,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0111,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0111,
+                                                    "location": 0.0,
+                                                    "value": 0.003
+                                                },
+                                                {
+                                                    "derivative": 0.094000004,
+                                                    "location": 0.4444,
+                                                    "value": 0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0777,
+                                                    "location": 1.0,
+                                                    "value": 0.0666
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.2222,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.0222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.1111,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": 0.2222,
+                            "value": {
+                                "coordinate": "chronicle:wasteland/erosion",
+                                "points": [
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.8888,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": 0.20235021
+                                                },
+                                                {
+                                                    "derivative": 0.5138249,
+                                                    "location": 0.0,
+                                                    "value": 0.7161751
+                                                },
+                                                {
+                                                    "derivative": 0.5138249,
+                                                    "location": 1.0,
+                                                    "value": 1.23
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": 0.2
+                                                },
+                                                {
+                                                    "derivative": 0.43317974,
+                                                    "location": 0.0,
+                                                    "value": 0.44682026
+                                                },
+                                                {
+                                                    "derivative": 0.43317974,
+                                                    "location": 1.0,
+                                                    "value": 0.88
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": 0.2
+                                                },
+                                                {
+                                                    "derivative": 0.3333917051,
+                                                    "location": 0.0,
+                                                    "value": 0.33330829495
+                                                },
+                                                {
+                                                    "derivative": 0.3333917051,
+                                                    "location": 1.0,
+                                                    "value": 0.70000005
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.3333,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.2222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.3333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.3333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.4444,
+                                                    "value": 0.3333
+                                                },
+                                                {
+                                                    "derivative": 0.0444000014,
+                                                    "location": 1.0,
+                                                    "value": 0.42000002
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.1111,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.07,
+                                                    "location": -0.4444,
+                                                    "value": 0.0069999998
+                                                },
+                                                {
+                                                    "derivative": 0.07,
+                                                    "location": 0.0,
+                                                    "value": 0.02221
+                                                },
+                                                {
+                                                    "derivative": 0.66668,
+                                                    "location": 0.4444,
+                                                    "value": 0.3333
+                                                },
+                                                {
+                                                    "derivative": 0.0444000014,
+                                                    "location": 1.0,
+                                                    "value": 0.42000002
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.2222,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": {
+                                                        "coordinate": "chronicle:wasteland/ridges_folded",
+                                                        "points": [
+                                                            {
+                                                                "derivative": 0.5555,
+                                                                "location": -1.0,
+                                                                "value": -0.1111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": -0.4444,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": 0.0,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 0.4444,
+                                                                "value": 0.0333
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 1.0,
+                                                                "value": 0.1111
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.5555,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": {
+                                                        "coordinate": "chronicle:wasteland/ridges_folded",
+                                                        "points": [
+                                                            {
+                                                                "derivative": 0.5555,
+                                                                "location": -1.0,
+                                                                "value": -0.1111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": -0.4444,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": 0.0,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 0.4444,
+                                                                "value": 0.0333
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 1.0,
+                                                                "value": 0.1111
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.5555,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.1111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.0222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": -0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.1111,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "derivative": 0.0,
+                            "location": 1.0,
+                            "value": {
+                                "coordinate": "chronicle:wasteland/erosion",
+                                "points": [
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.8888,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": 0.33334792626
+                                                },
+                                                {
+                                                    "derivative": 0.5760369,
+                                                    "location": 0.0,
+                                                    "value": 0.9239631
+                                                },
+                                                {
+                                                    "derivative": 0.5760369,
+                                                    "location": 1.0,
+                                                    "value": 1.5
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": 0.2
+                                                },
+                                                {
+                                                    "derivative": 0.4608295,
+                                                    "location": 0.0,
+                                                    "value": 0.5391705
+                                                },
+                                                {
+                                                    "derivative": 0.4608295,
+                                                    "location": 1.0,
+                                                    "value": 1.0
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": 0.2
+                                                },
+                                                {
+                                                    "derivative": 0.4608295,
+                                                    "location": 0.0,
+                                                    "value": 0.5391705
+                                                },
+                                                {
+                                                    "derivative": 0.4608295,
+                                                    "location": 1.0,
+                                                    "value": 1.0
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.3333,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.2
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.5
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.5
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.4444,
+                                                    "value": 0.5
+                                                },
+                                                {
+                                                    "derivative": 0.070000015,
+                                                    "location": 1.0,
+                                                    "value": 0.6
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": -0.1111,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.099999994,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.099999994,
+                                                    "location": 0.0,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.94,
+                                                    "location": 0.4444,
+                                                    "value": 0.5
+                                                },
+                                                {
+                                                    "derivative": 0.070000015,
+                                                    "location": 1.0,
+                                                    "value": 0.6
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.2222,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.4444,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": {
+                                                        "coordinate": "chronicle:wasteland/ridges_folded",
+                                                        "points": [
+                                                            {
+                                                                "derivative": 0.5555,
+                                                                "location": -1.0,
+                                                                "value": -0.0555
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": -0.4444,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": 0.0,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 0.4444,
+                                                                "value": 0.0333
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 1.0,
+                                                                "value": 0.1111
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.5555,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -1.0,
+                                                    "value": -0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": {
+                                                        "coordinate": "chronicle:wasteland/ridges_folded",
+                                                        "points": [
+                                                            {
+                                                                "derivative": 0.5555,
+                                                                "location": -1.0,
+                                                                "value": -0.0555
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": -0.4444,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0,
+                                                                "location": 0.0,
+                                                                "value": 0.0111
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 0.4444,
+                                                                "value": 0.0333
+                                                            },
+                                                            {
+                                                                "derivative": 0.0444,
+                                                                "location": 1.0,
+                                                                "value": 0.1111
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.5555,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.5555,
+                                                    "location": -1.0,
+                                                    "value": -0.0555
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "derivative": 0.0,
+                                        "location": 0.7777,
+                                        "value": {
+                                            "coordinate": "chronicle:wasteland/ridges_folded",
+                                            "points": [
+                                                {
+                                                    "derivative": 0.0111,
+                                                    "location": -1.0,
+                                                    "value": -0.0222
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": -0.4444,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0,
+                                                    "location": 0.0,
+                                                    "value": 0.0111
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 0.4444,
+                                                    "value": 0.0333
+                                                },
+                                                {
+                                                    "derivative": 0.0444,
+                                                    "location": 1.0,
+                                                    "value": 0.1111
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

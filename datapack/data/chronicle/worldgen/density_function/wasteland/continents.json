@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:flat_cache",
+    "argument": {
+        "type": "minecraft:shifted_noise",
+        "noise": "chronicle:wasteland/continentalness",
+        "shift_x": "chronicle:wasteland/shift_x",
+        "shift_y": 0.0,
+        "shift_z": "chronicle:wasteland/shift_z",
+        "xz_scale": 0.3333,
+        "y_scale": 0.3333
+    }
+}
