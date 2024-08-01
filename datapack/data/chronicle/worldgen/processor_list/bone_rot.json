@@ -1,0 +1,42 @@
+{
+    "processors": [
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "input_predicate": {
+                        "block": "minecraft:bone_block",
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.6666
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "position_predicate": {
+                        "predicate_type": "minecraft:linear_pos",
+                        "max_chance": 0.8888,
+                        "max_dist": 16,
+                        "min_chance": 0.0,
+                        "min_dist": 0
+                    },
+                    "output_state": {
+                        "Name": "minecraft:dripstone_block"
+                    }
+                },
+                {
+                    "input_predicate": {
+                        "block": "minecraft:mushroom_stem",
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.2222
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:soul_soil"
+                    }
+                }
+            ]
+        }
+    ]
+}
