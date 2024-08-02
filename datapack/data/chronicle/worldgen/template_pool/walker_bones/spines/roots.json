@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/spine/spine_1",
+                "location": "chronicle:walker_bones/spine/root_1",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -12,7 +12,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/spine/spine_2",
+                "location": "chronicle:walker_bones/spine/root_2",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },

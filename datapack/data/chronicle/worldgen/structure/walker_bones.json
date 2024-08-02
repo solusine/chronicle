@@ -16,13 +16,38 @@
     "pool_aliases": [
         {
             "type": "direct",
-            "alias": "chronicle:spines",
-            "target": "chronicle:walker_bones/spines/spines"
+            "alias": "chronicle:spine_roots",
+            "target": "chronicle:walker_bones/spines/roots"
         },
         {
             "type": "direct",
             "alias": "chronicle:spine_extenders",
             "target": "chronicle:walker_bones/spines/extenders"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:long_bonecaps",
+            "target": "chronicle:walker_bones/long_bones/bonecaps/bonecaps"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:long_bonecaps_up",
+            "target": "chronicle:walker_bones/long_bones/bonecaps/bonecaps_up"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:long_bonecap_centers",
+            "target": "chronicle:walker_bones/long_bones/bonecaps/centers"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:long_bone_shafts",
+            "target": "chronicle:walker_bones/long_bones/shafts"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:long_bonecap_selectors",
+            "target": "chronicle:walker_bones/long_bones/bonecaps/selectors"
         }
     ],
     "step": "surface_structures",
