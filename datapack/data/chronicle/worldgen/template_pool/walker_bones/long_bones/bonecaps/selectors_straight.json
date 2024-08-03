@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_1",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_1",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -12,7 +12,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_2",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_2",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -21,7 +21,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_3",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_3",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -30,7 +30,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_4",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_4",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -39,7 +39,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_5",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_5",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -48,7 +48,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_6",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_6",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -57,7 +57,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_7",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_7",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -66,7 +66,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_8",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_8",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -75,7 +75,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_9",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_9",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -84,7 +84,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_10",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_10",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -93,7 +93,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_11",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_11",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -102,7 +102,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_12",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_12",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -111,7 +111,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_13",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_13",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -120,7 +120,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_14",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_14",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -129,7 +129,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_15",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_15",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -138,7 +138,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_16",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_16",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -147,7 +147,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_17",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_17",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -156,7 +156,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_18",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_18",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -165,7 +165,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_19",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_19",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -174,7 +174,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_20",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_20",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -183,7 +183,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_21",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_21",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -192,7 +192,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_22",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_22",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -201,7 +201,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_23",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_23",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -210,7 +210,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_24",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_24",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -219,7 +219,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_25",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_25",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -228,7 +228,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_26",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_26",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -237,7 +237,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_27",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_27",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -246,7 +246,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/selector/horizontal/selector_28",
+                "location": "chronicle:walker_bones/long_bone/bonecap/selector/straight/selector_28",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },

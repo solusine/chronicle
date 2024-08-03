@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/cap_4",
+                "location": "chronicle:walker_bones/long_bone/root/center/straight_1",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -12,18 +12,11 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/long_bone/bonecap/cap_5",
+                "location": "chronicle:walker_bones/long_bone/root/center/straight_2",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
-        },
-        {
-            "element": {
-                "element_type": "minecraft:empty_pool_element",
-                "projection": "rigid"
-            },
-            "weight": 2
+            "weight": 4
         }
     ],
     "fallback": "minecraft:empty"

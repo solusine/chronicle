@@ -1,10 +1,6 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": [
-        "chronicle:wasteland/wastes",
-        "chronicle:wasteland/pools",
-        "chronicle:wasteland/basin"
-    ],
+    "biomes": "#chronicle:contains_walker_bones",
     "max_distance_from_center": 32,
     "project_start_to_heightmap": "WORLD_SURFACE",
     "size": 8,
@@ -24,10 +20,17 @@
             "alias": "chronicle:spine_extenders",
             "target": "chronicle:walker_bones/spines/extenders"
         },
+
+
         {
             "type": "direct",
             "alias": "chronicle:long_bonecaps",
             "target": "chronicle:walker_bones/long_bones/bonecaps/bonecaps"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:long_bonecaps_alt",
+            "target": "chronicle:walker_bones/long_bones/bonecaps/bonecaps_alt"
         },
         {
             "type": "direct",
@@ -41,13 +44,114 @@
         },
         {
             "type": "direct",
-            "alias": "chronicle:long_bone_shafts",
-            "target": "chronicle:walker_bones/long_bones/shafts"
+            "alias": "chronicle:long_bonecap_centers_alt",
+            "target": "chronicle:walker_bones/long_bones/bonecaps/centers_alt"
         },
+
         {
-            "type": "direct",
-            "alias": "chronicle:long_bonecap_selectors",
-            "target": "chronicle:walker_bones/long_bones/bonecaps/selectors"
+            "type": "random_group",
+            "groups": [
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_centers",
+                            "target": "chronicle:walker_bones/long_bones/roots/centers_diagonal"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_shafts",
+                            "target": "chronicle:walker_bones/long_bones/shafts/diagonal"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_roots",
+                            "target": "chronicle:walker_bones/long_bones/roots/diagonal"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bonecap_selectors",
+                            "target": "chronicle:walker_bones/long_bones/bonecaps/selectors_diagonal"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_centers",
+                            "target": "chronicle:walker_bones/long_bones/roots/centers_straight"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_shafts",
+                            "target": "chronicle:walker_bones/long_bones/shafts/left"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_roots",
+                            "target": "chronicle:walker_bones/long_bones/roots/straight"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bonecap_selectors",
+                            "target": "chronicle:walker_bones/long_bones/bonecaps/selectors_straight"
+                        }
+                    ],
+                    "weight": 2
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_centers",
+                            "target": "chronicle:walker_bones/long_bones/roots/centers_straight"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_shafts",
+                            "target": "chronicle:walker_bones/long_bones/shafts/right"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_roots",
+                            "target": "chronicle:walker_bones/long_bones/roots/straight"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bonecap_selectors",
+                            "target": "chronicle:walker_bones/long_bones/bonecaps/selectors_straight"
+                        }
+                    ],
+                    "weight": 2
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_centers",
+                            "target": "chronicle:walker_bones/long_bones/roots/centers_straight"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_shafts",
+                            "target": "chronicle:walker_bones/long_bones/shafts/straight"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bone_roots",
+                            "target": "chronicle:walker_bones/long_bones/roots/straight"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:long_bonecap_selectors",
+                            "target": "chronicle:walker_bones/long_bones/bonecaps/selectors_straight"
+                        }
+                    ],
+                    "weight": 1
+                }
+            ]
         }
     ],
     "step": "surface_structures",
