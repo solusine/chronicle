@@ -6,19 +6,19 @@
 ### 1. Definitions
 
 <dl>
-  <dt><h4>1.1. "<em>Contributor</em>"</h4></dt>
+  <dt><h4>1.1 "<em>Contributor</em>"</h4></dt>
   <dd>means each individual or legal entity that creates, contributes to the creation of, or owns Covered Software.</dd>
 
-  <dt><h4>1.2. "<em>Contributor Version</em>"</h4></dt>
+  <dt><h4>1.2 "<em>Contributor Version</em>"</h4></dt>
   <dd>means the combination of the Contributions of others (if any) used by a Contributor and that particular Contributor's Contribution.</dd>
 
-  <dt><h4>1.3. "<em>Contribution</em>"</h4></dt>
+  <dt><h4>1.3 "<em>Contribution</em>"</h4></dt>
   <dd>means Covered Software of a particular Contributor.</dd>
 
-  <dt><h4>1.4. "<em>Covered Software</em>"</h4></dt>
+  <dt><h4>1.4 "<em>Covered Software</em>"</h4></dt>
   <dd>means Source Code Form to which the initial Contributor has attached the notice in <a href="#exhibit-a--source-code-form-license-notice">Exhibit A</a>, the Executable Form of such Source Code Form, and Modifications of such Source Code Form, in each case including portions thereof.</dd>
 
-  <dt><h4>1.5. "<em>Incompatible With Secondary Licenses</em>"</h4></dt>
+  <dt><h4>1.5 "<em>Incompatible With Secondary Licenses</em>"</h4></dt>
   <dd>
     means<br><br>
     <ol type="a">
@@ -27,19 +27,19 @@
     </ol>
   </dd>
 
-  <dt><h4>1.6. "<em>Executable Form</em>"</h4></dt>
+  <dt><h4>1.6 "<em>Executable Form</em>"</h4></dt>
   <dd>means any form of the work other than Source Code Form.</dd>
 
-  <dt><h4>1.7. "<em>Larger Work</em>"</h4></dt>
+  <dt><h4>1.7 "<em>Larger Work</em>"</h4></dt>
   <dd>means a work that combines Covered Software with other material, in a separate file or files, that is not Covered Software.</dd>
 
-  <dt><h4>1.8. "<em>License</em>"</h4></dt>
+  <dt><h4>1.8 "<em>License</em>"</h4></dt>
   <dd>means this document.</dd>
 
-  <dt><h4>1.9. "<em>Licensable</em>"</h4></dt>
+  <dt><h4>1.9 "<em>Licensable</em>"</h4></dt>
   <dd>means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.</dd>
 
-  <dt><h4>1.10. "<em>Modifications</em>"</h4></dt>
+  <dt><h4>1.10 "<em>Modifications</em>"</h4></dt>
   <dd>
     means any of the following:<br><br>
     <ol type="a">
@@ -48,16 +48,16 @@
     </ol>
   </dd>
 
-  <dt><h4>1.11. "<em>Patent Claims</em>" of a Contributor</h4></dt>
+  <dt><h4>1.11 "<em>Patent Claims</em>" of a Contributor</h4></dt>
   <dd>means any patent claim(s), including without limitation, method, process, and apparatus claims, in any patent Licensable by such Contributor that would be infringed, but for the grant of the License, by the making, using, selling, offering for sale, having made, import, or transfer of either its Contributions or its Contributor Version.</dd>
 
-  <dt><h4>1.12. "<em>Secondary License</em>"</h4></dt>
+  <dt><h4>1.12 "<em>Secondary License</em>"</h4></dt>
   <dd>means either the <a href="https://www.gnu.org/licenses/gpl-2.0.html">GNU General Public License, Version 2.0</a>, the <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">GNU Lesser General Public License, Version 2.1</a>, the <a href="https://www.gnu.org/licenses/agpl-3.0.html">GNU Affero General Public License, Version 3.0</a>, or any later versions of those licenses.</dd>
 
-  <dt><h4>1.13. "<em>Source Code Form</em>"</h4></dt>
+  <dt><h4>1.13 "<em>Source Code Form</em>"</h4></dt>
   <dd>means the form of the work preferred for making modifications.</dd>
 
-  <dt><h4>1.14. "<em>You</em>" (or "<em>Your</em>")</h4></dt>
+  <dt><h4>1.14 "<em>You</em>" (or "<em>Your</em>")</h4></dt>
   <dd>
     means an individual or a legal entity exercising rights under this License.
     For legal entities, "<em>You</em>" includes any entity that controls, is controlled by, or is under common control with You.<br><br>
@@ -75,7 +75,7 @@
 
 ### 2. License Grants and Conditions
 
-#### 2.1. Grants
+#### 2.1 Grants
 
 Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license:
 
@@ -84,11 +84,11 @@ Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive lic
   <li>under Patent Claims of such Contributor to make, use, sell, offer for sale, have made, import, and otherwise transfer either its Contributions or its Contributor Version.</li>
 </ol>
 
-#### 2.2. Effective Date
+#### 2.2 Effective Date
 
 The licenses granted in [Section 2.1](#21-grants) with respect to any Contribution become effective for each Contribution on the date the Contributor first distributes such Contribution.
 
-#### 2.3. Limitations on Grant Scope
+#### 2.3 Limitations on Grant Scope
 
 The licenses granted in this [Section 2](#2-license-grants-and-conditions) are the only rights granted under this License.
 No additional rights or licenses will be implied from the distribution or licensing of Covered Software under this License.
@@ -111,25 +111,25 @@ Notwithstanding [Section 2.1(b)](#21-grants) above, no patent license is granted
 > [!IMPORTANT]
 > This License does _not_ grant any rights in the trademarks, service marks, or logos of any Contributor (except as may be necessary to comply with the notice requirements in [Section 3.4](#34-notices)).
 
-#### 2.4. Subsequent Licenses
+#### 2.4 Subsequent Licenses
 
 No Contributor makes additional grants as a result of Your choice to distribute the Covered Software under a subsequent version of this License (see [Section 10.2](#102-effect-of-new-versions)) or under the terms of a Secondary License (if permitted under the terms of [Section 3.3](#33-distribution-of-a-larger-work)).
 
-#### 2.5. Representation
+#### 2.5 Representation
 
 Each Contributor represents that the Contributor believes its Contributions are its original creation(s) or it has sufficient rights to grant the rights to its Contributions conveyed by this License.
 
-#### 2.6. Fair Use
+#### 2.6 Fair Use
 
 This License is not intended to limit any rights You have under applicable copyright doctrines of fair use, fair dealing, or other equivalents.
 
-#### 2.7. Conditions
+#### 2.7 Conditions
 
 [Sections 3.1](#31-distribution-of-source-form), [3.2](#32-distribution-of-executable-form), [3.3](#33-distribution-of-a-larger-work), and [3.4](#34-notices) are conditions of the licenses granted in [Section 2.1](#21-grants).
 
 ### 3. Responsibilities
 
-#### 3.1. Distribution of Source Form
+#### 3.1 Distribution of Source Form
 
 All distribution of Covered Software in Source Code Form, including any Modifications that You create or to which You contribute, must be under the terms of this License.
 
@@ -137,7 +137,7 @@ You must inform recipients that the Source Code Form of the Covered Software is 
 
 You may _not_ attempt to alter or restrict the recipients' rights in the Source Code Form.
 
-#### 3.2. Distribution of Executable Form
+#### 3.2 Distribution of Executable Form
 
 If You distribute Covered Software in Executable Form then:
 
@@ -146,17 +146,17 @@ If You distribute Covered Software in Executable Form then:
   <li>You may distribute such Executable Form under the terms of this License, or sublicense it under different terms, provided that the license for the Executable Form does not attempt to limit or alter the recipients' rights in the Source Code Form under this License.</li>
 </ol>
 
-#### 3.3. Distribution of a Larger Work
+#### 3.3 Distribution of a Larger Work
 
 You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software.
 
 If the Larger Work is a combination of Covered Software with a work governed by one or more Secondary Licenses, and the Covered Software is not Incompatible With Secondary Licenses, this License permits You to additionally distribute such Covered Software under the terms of such Secondary License(s), so that the recipient of the Larger Work may, at their option, further distribute the Covered Software under the terms of either this License or such Secondary License(s).
 
-#### 3.4. Notices
+#### 3.4 Notices
 
 You may _not_ remove or alter the substance of any license notices (including copyright notices, patent notices, disclaimers of warranty, or limitations of liability) contained within the Source Code Form of the Covered Software, except that You may alter any license notices to the extent required to remedy known factual inaccuracies.
 
-#### 3.5. Application of Additional Terms
+#### 3.5 Application of Additional Terms
 
 You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Covered Software.
 
@@ -182,7 +182,7 @@ If it is impossible for You to comply with any of the terms of this License with
 
 ### 5. Termination
 
-#### 5.1.
+#### 5.1
 
 > [!WARNING]
 > The rights granted under this License will terminate automatically if You fail to comply with any of its terms.
@@ -202,12 +202,12 @@ Moreover, Your grants from a particular Contributor are reinstated on an ongoing
   <li>You become compliant prior to 30 days after Your receipt of the notice.</li>
 </ul>
 
-#### 5.2.
+#### 5.2
 
 > [!WARNING]
 > If You initiate litigation against any entity by asserting a patent infringement claim (excluding declaratory judgment actions, counter-claims, and cross-claims) alleging that a Contributor Version directly or indirectly infringes any patent, then the rights granted to You by any and all Contributors for the Covered Software under [Section 2.1](#21-grants) of this License shall terminate.
 
-#### 5.3.
+#### 5.3
 
 > [!NOTE]
 > In the event of termination under [Sections 5.1](#51) or [5.2](#52) above, all end user license agreements (excluding distributors and resellers) which have been validly granted by You or Your distributors under this License prior to termination shall survive termination.
@@ -248,21 +248,21 @@ Any law or regulation which provides that the language of a contract shall be co
 
 ### 10. Versions of the License
 
-#### 10.1. New Versions
+#### 10.1 New Versions
 
 Mozilla Foundation is the license steward.
 Except as provided in [Section 10.3](#103-modified-versions), no one other than the license steward has the right to modify or publish new versions of this License.
 Each version will be given a distinguishing version number.
 
-#### 10.2. Effect of New Versions
+#### 10.2 Effect of New Versions
 
 You may distribute the Covered Software under the terms of the version of the License under which You originally received the Covered Software, or under the terms of any subsequent version published by the license steward.
 
-#### 10.3. Modified Versions
+#### 10.3 Modified Versions
 
 If you create software not governed by this License, and you want to create a new license for such software, you may create and use a modified version of this License if you rename the license and remove any references to the name of the license steward (except to note that such modified license differs from this License).
 
-#### 10.4. Distributing Source Code Form that is Incompatible With Secondary Licenses
+#### 10.4 Distributing Source Code Form that is Incompatible With Secondary Licenses
 
 If You choose to distribute Source Code Form that is Incompatible With Secondary Licenses under the terms of this version of the License, the notice described in [Exhibit B](#exhibit-b--incompatible-with-secondary-licenses-notice) of this License must be attached.
 
@@ -271,7 +271,7 @@ If You choose to distribute Source Code Form that is Incompatible With Secondary
 ```
 This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
-file, You can obtain one at https://mozilla.org/MPL/2.0/.
+file, You can obtain one at https://mozilla.org/MPL/2.0
 ```
 
 If it is not possible or desirable to put the notice in a particular file, then You may include the notice in a location (such as a LICENSE file in a relevant directory) where a recipient would be likely to look for such a notice.
@@ -282,5 +282,5 @@ You may add additional accurate notices of copyright ownership.
 
 ```
 This Source Code Form is "Incompatible With Secondary Licenses", as
-defined by the Mozilla Public License, v. 2.0.
+defined by the Mozilla Public License, v. 2.0
 ```
