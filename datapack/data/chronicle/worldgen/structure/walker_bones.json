@@ -19,6 +19,11 @@
             "type": "direct",
             "alias": "chronicle:spine_extenders",
             "target": "chronicle:walker_bones/spines/extenders"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:hand_roots",
+            "target": "chronicle:walker_bones/hands/roots"
         }
     ],
     "step": "surface_structures",

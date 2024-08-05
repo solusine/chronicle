@@ -8,6 +8,15 @@
                 "projection": "rigid"
             },
             "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/seed/hand",
+                "processors": [],
+                "projection": "rigid"
+            },
+            "weight": 8
         }
     ],
     "fallback": "minecraft:empty"
