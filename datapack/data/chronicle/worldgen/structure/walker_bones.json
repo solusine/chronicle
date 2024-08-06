@@ -22,8 +22,248 @@
         },
         {
             "type": "direct",
-            "alias": "chronicle:hand_roots",
-            "target": "chronicle:walker_bones/hands/roots"
+            "alias": "chronicle:fingertips",
+            "target": "chronicle:walker_bones/hands/fingertips"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:fingertips_small",
+            "target": "chronicle:walker_bones/hands/fingertips_small"
+        },
+        {
+            "type": "random_group",
+            "groups": [
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:fingers_1",
+                            "target": "chronicle:walker_bones/hands/fingers_small"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:fingers_2",
+                            "target": "chronicle:walker_bones/hands/fingers"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:fingers_3",
+                            "target": "chronicle:walker_bones/hands/fingers"
+                        },
+                        {
+                            "type": "random_group",
+                            "groups": [
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_1"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_1"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_2"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_2"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_3"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_3"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_4"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_4"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_5"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_5"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_6"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_6"
+                                        }
+                                    ],
+                                    "weight": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:fingers_1",
+                            "target": "chronicle:walker_bones/hands/fingers"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:fingers_2",
+                            "target": "chronicle:walker_bones/hands/fingers"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:fingers_3",
+                            "target": "chronicle:walker_bones/hands/fingers_small"
+                        },
+                        {
+                            "type": "random_group",
+                            "groups": [
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_1"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_7"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_2"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_8"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_3"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_9"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_4"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_10"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_5"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_11"
+                                        }
+                                    ],
+                                    "weight": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:hand_roots",
+                                            "target": "chronicle:walker_bones/hands/roots/roots_6"
+                                        },
+                                        {
+                                            "type": "direct",
+                                            "alias": "chronicle:wrists",
+                                            "target": "chronicle:walker_bones/hands/wrists/wrists_12"
+                                        }
+                                    ],
+                                    "weight": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "weight": 1
+                }
+            ]
         }
     ],
     "step": "surface_structures",

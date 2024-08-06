@@ -1,0 +1,14 @@
+{
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/hand/root_6",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        }
+    ],
+    "fallback": "minecraft:empty"
+}
