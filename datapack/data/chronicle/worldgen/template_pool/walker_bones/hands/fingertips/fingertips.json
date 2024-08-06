@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_1",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_1",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -12,7 +12,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_2",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_2",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -21,7 +21,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_3",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_3",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -30,56 +30,56 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_4",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_4",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_5",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_5",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_6",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_6",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_7",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_7",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_8",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_8",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/finger/finger_small_9",
+                "location": "chronicle:walker_bones/hand/fingertip/fingertip_9",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         }
     ],
     "fallback": "minecraft:empty"

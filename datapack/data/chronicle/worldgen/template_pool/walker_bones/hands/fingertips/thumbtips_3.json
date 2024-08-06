@@ -3,20 +3,38 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/fingertip/fingertip_1",
+                "location": "chronicle:walker_bones/hand/fingertip/thumbtip_3",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/fingertip/fingertip_2",
+                "location": "chronicle:walker_bones/hand/fingertip/thumbtip_4",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/hand/fingertip/thumbtip_5",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/hand/fingertip/thumbtip_6",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 2
         },
         {
             "element": {
@@ -25,25 +43,7 @@
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
-        },
-        {
-            "element": {
-                "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/fingertip/fingertip_4",
-                "processors": "chronicle:bone_rot",
-                "projection": "rigid"
-            },
-            "weight": 1
-        },
-        {
-            "element": {
-                "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/hand/fingertip/fingertip_5",
-                "processors": "chronicle:bone_rot",
-                "projection": "rigid"
-            },
-            "weight": 1
+            "weight": 4
         },
         {
             "element": {
