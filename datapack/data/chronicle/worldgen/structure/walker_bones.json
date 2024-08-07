@@ -22,6 +22,16 @@
         },
         {
             "type": "direct",
+            "alias": "chronicle:skulls",
+            "target": "chronicle:walker_bones/skulls/roots"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:jaws",
+            "target": "chronicle:walker_bones/skulls/jaws"
+        },
+        {
+            "type": "direct",
             "alias": "chronicle:fingertips",
             "target": "chronicle:walker_bones/hands/fingertips/fingertips"
         },

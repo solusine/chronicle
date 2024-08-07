@@ -7,6 +7,15 @@
                 "processors": [],
                 "projection": "rigid"
             },
+            "weight": 4
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/seed/skull",
+                "processors": [],
+                "projection": "rigid"
+            },
             "weight": 1
         },
         {
