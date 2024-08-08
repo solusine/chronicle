@@ -1,0 +1,38 @@
+name: Bug Report
+description: Report something broken or not working.
+title: "[BUG]: "
+labels: ["bug"]
+assignees:
+  - solusine
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make Chronicle better! Consider using a short but memorable title for your bug, like __Ice cream machine broke__ or __Computer won't open pod bay doors__, and save all the juicy details for the sections below.
+  - type: textarea
+    id: issue
+    attributes:
+      label: What happened?
+      description: Be as descriptive as possible, recounting the exact steps you took to encounter the bug, as well as what should or shouldn't have happened instead.
+      placeholder: The more details, the better!
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of Chronicle are you using?
+      options:
+        - 0.1.0 (Latest)
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this bug report, you agree to follow our [Code of Conduct](https://github.com/solusine/chronicle/tree/main/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow Chronicle's Code of Conduct
+          required: true
+
