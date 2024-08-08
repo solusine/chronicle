@@ -16,7 +16,7 @@
                         "predicate_type": "minecraft:linear_pos",
                         "max_chance": 0.8888,
                         "max_dist": 16,
-                        "min_chance": 0.0,
+                        "min_chance": 0.1111,
                         "min_dist": 0
                     },
                     "output_state": {
@@ -34,6 +34,58 @@
                     },
                     "output_state": {
                         "Name": "minecraft:soul_soil"
+                    }
+                },
+                {
+                    "input_predicate": {
+                        "block": "minecraft:warped_hyphae",
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.1111
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                },
+                {
+                    "input_predicate": {
+                        "block": "minecraft:warped_hyphae",
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.2222
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:dead_horn_coral_block"
+                    }
+                },
+                {
+                    "input_predicate": {
+                        "block": "minecraft:warped_hyphae",
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.2222
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:dead_fire_coral_block"
+                    }
+                },
+                {
+                    "input_predicate": {
+                        "block": "minecraft:warped_hyphae",
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.2222
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:dead_bubble_coral_block"
                     }
                 },
                 {
@@ -60,45 +112,6 @@
                     },
                     "output_state": {
                         "Name": "minecraft:dead_brain_coral_block"
-                    }
-                },
-                {
-                    "input_predicate": {
-                        "block": "minecraft:warped_hyphae",
-                        "predicate_type": "minecraft:random_block_match",
-                        "probability": 0.2222
-                    },
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "output_state": {
-                        "Name": "minecraft:dead_bubble_coral_block"
-                    }
-                },
-                {
-                    "input_predicate": {
-                        "block": "minecraft:warped_hyphae",
-                        "predicate_type": "minecraft:random_block_match",
-                        "probability": 0.2222
-                    },
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "output_state": {
-                        "Name": "minecraft:dead_fire_coral_block"
-                    }
-                },
-                {
-                    "input_predicate": {
-                        "block": "minecraft:warped_hyphae",
-                        "predicate_type": "minecraft:random_block_match",
-                        "probability": 0.2222
-                    },
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "output_state": {
-                        "Name": "minecraft:dead_horn_coral_block"
                     }
                 },
                 {
