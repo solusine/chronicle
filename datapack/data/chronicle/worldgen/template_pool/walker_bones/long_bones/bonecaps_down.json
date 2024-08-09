@@ -1,0 +1,95 @@
+{
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_1",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_2",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_3",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_4",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_5",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_6",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_7",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_8",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_9",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/long_bone/bonecap/cap_down/cap_10",
+                "processors": "chronicle:bone_rot",
+                "projection": "rigid"
+            },
+            "weight": 1
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

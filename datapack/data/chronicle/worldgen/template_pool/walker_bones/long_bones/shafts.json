@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/jaw/jaw_1",
+                "location": "chronicle:walker_bones/long_bone/shaft/shaft_1",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -12,7 +12,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/jaw/jaw_2",
+                "location": "chronicle:walker_bones/long_bone/shaft/shaft_2",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -21,7 +21,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/jaw/jaw_3",
+                "location": "chronicle:walker_bones/long_bone/shaft/shaft_3",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -30,7 +30,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/jaw/jaw_4",
+                "location": "chronicle:walker_bones/long_bone/shaft/shaft_4",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -39,7 +39,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/jaw/jaw_5",
+                "location": "chronicle:walker_bones/long_bone/shaft/shaft_5",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -48,15 +48,8 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/jaw/jaw_6",
+                "location": "chronicle:walker_bones/long_bone/shaft/shaft_6",
                 "processors": "chronicle:bone_rot",
-                "projection": "rigid"
-            },
-            "weight": 1
-        },
-        {
-            "element": {
-                "element_type": "minecraft:empty_pool_element",
                 "projection": "rigid"
             },
             "weight": 1

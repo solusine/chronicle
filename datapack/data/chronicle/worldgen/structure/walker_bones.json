@@ -12,13 +12,28 @@
     "pool_aliases": [
         {
             "type": "direct",
-            "alias": "chronicle:spine_roots",
-            "target": "chronicle:walker_bones/spines/roots"
+            "alias": "chronicle:long_bone_roots",
+            "target": "chronicle:walker_bones/long_bones/roots"
         },
         {
             "type": "direct",
-            "alias": "chronicle:spine_extenders",
-            "target": "chronicle:walker_bones/spines/extenders"
+            "alias": "chronicle:long_bone_shafts",
+            "target": "chronicle:walker_bones/long_bones/shafts"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:bonecaps",
+            "target": "chronicle:walker_bones/long_bones/bonecaps"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:bonecaps_up",
+            "target": "chronicle:walker_bones/long_bones/bonecaps_up"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:bonecaps_down",
+            "target": "chronicle:walker_bones/long_bones/bonecaps_down"
         },
         {
             "type": "direct",
@@ -29,6 +44,16 @@
             "type": "direct",
             "alias": "chronicle:jaws",
             "target": "chronicle:walker_bones/skulls/jaws"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:spine_roots",
+            "target": "chronicle:walker_bones/spines/roots"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:spine_extenders",
+            "target": "chronicle:walker_bones/spines/extenders"
         },
         {
             "type": "direct",

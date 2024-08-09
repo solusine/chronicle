@@ -4,7 +4,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/skull_1",
+                "location": "chronicle:walker_bones/skull/root_1",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -13,7 +13,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/skull_2",
+                "location": "chronicle:walker_bones/skull/root_2",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -22,7 +22,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/skull_3",
+                "location": "chronicle:walker_bones/skull/root_3",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -31,7 +31,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/skull_4",
+                "location": "chronicle:walker_bones/skull/root_4",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -40,7 +40,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/skull_5",
+                "location": "chronicle:walker_bones/skull/root_5",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
@@ -49,7 +49,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/skull/skull_6",
+                "location": "chronicle:walker_bones/skull/root_6",
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
