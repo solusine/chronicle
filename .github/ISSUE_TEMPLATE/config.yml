@@ -1,2 +1,9 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Feature Requests
+    url: https://github.com/solusine/chronicle/discussions/new?category=ideas
+    about: Thought of something cool you'd like to see added or changed? Start a discussion instead of opening an issue!
+  - name: Questions and Support
+    url: https://github.com/solusine/chronicle/discussions/categories/q-a
+    about: Get help and guidance from the community.
 
