@@ -3,24 +3,6 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/seed/spine",
-                "processors": [],
-                "projection": "rigid"
-            },
-            "weight": 4
-        },
-        {
-            "element": {
-                "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:walker_bones/seed/skull",
-                "processors": [],
-                "projection": "rigid"
-            },
-            "weight": 1
-        },
-        {
-            "element": {
-                "element_type": "minecraft:single_pool_element",
                 "location": "chronicle:walker_bones/seed/hand",
                 "processors": [],
                 "projection": "rigid"
@@ -35,6 +17,33 @@
                 "projection": "rigid"
             },
             "weight": 16
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/seed/ribcage",
+                "processors": [],
+                "projection": "rigid"
+            },
+            "weight": 128
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/seed/skull",
+                "processors": [],
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:walker_bones/seed/spine",
+                "processors": [],
+                "projection": "rigid"
+            },
+            "weight": 4
         }
     ],
     "fallback": "minecraft:empty"

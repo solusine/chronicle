@@ -569,6 +569,451 @@
                     "weight": 1
                 }
             ]
+        },
+        {
+            "type": "random_group",
+            "groups": [
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribcage_roots",
+                            "target": "chronicle:walker_bones/ribcages/roots_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:sternums_a",
+                            "target": "chronicle:walker_bones/ribcages/sternums/sternums_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_2"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribcage_roots",
+                            "target": "chronicle:walker_bones/ribcages/roots_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:sternums_b",
+                            "target": "chronicle:walker_bones/ribcages/sternums/sternums_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_1"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_2"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribcage_roots",
+                            "target": "chronicle:walker_bones/ribcages/roots_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:sternums_a",
+                            "target": "chronicle:walker_bones/ribcages/sternums/sternums_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs31"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_4"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribcage_roots",
+                            "target": "chronicle:walker_bones/ribcages/roots_2"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:sternums_b",
+                            "target": "chronicle:walker_bones/ribcages/sternums/sternums_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1b",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_4"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribcage_roots",
+                            "target": "chronicle:walker_bones/ribcages/roots_3"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:sternums_a",
+                            "target": "chronicle:walker_bones/ribcages/sternums/sternums_5"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_5"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_5"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_5"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_5"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_5"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_5"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_5"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "data": [
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribcage_roots",
+                            "target": "chronicle:walker_bones/ribcages/roots_4"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:sternums_a",
+                            "target": "chronicle:walker_bones/ribcages/sternums/sternums_6"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_1a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/collars/collars_6"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_2a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_6"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_3a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_6"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_4a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ribs_6"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_5a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/smalls/smalls_6"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_6a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/opens/opens_6"
+                        },
+                        {
+                            "type": "direct",
+                            "alias": "chronicle:ribs_7a",
+                            "target": "chronicle:walker_bones/ribcages/ribs/ends/ends_6"
+                        }
+                    ],
+                    "weight": 1
+                }
+            ]
         }
     ],
     "step": "surface_structures",
