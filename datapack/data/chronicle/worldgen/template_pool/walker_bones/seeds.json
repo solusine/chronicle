@@ -7,7 +7,7 @@
                 "processors": [],
                 "projection": "rigid"
             },
-            "weight": 8
+            "weight": 4
         },
         {
             "element": {
@@ -16,7 +16,7 @@
                 "processors": [],
                 "projection": "rigid"
             },
-            "weight": 16
+            "weight": 8
         },
         {
             "element": {
@@ -25,7 +25,7 @@
                 "processors": [],
                 "projection": "rigid"
             },
-            "weight": 128
+            "weight": 1
         },
         {
             "element": {

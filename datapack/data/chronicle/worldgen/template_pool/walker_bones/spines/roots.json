@@ -7,7 +7,7 @@
                 "processors": "chronicle:bone_rot",
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {

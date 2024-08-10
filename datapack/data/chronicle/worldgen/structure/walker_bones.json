@@ -6,7 +6,13 @@
     "size": 8,
     "spawn_overrides": {},
     "start_height": {
-        "absolute": 16
+        "type": "minecraft:biased_to_bottom",
+        "max_inclusive": {
+            "absolute": 2
+        },
+        "min_inclusive": {
+            "absolute": -16
+        }
     },
     "start_pool": "chronicle:walker_bones/seeds",
     "pool_aliases": [
