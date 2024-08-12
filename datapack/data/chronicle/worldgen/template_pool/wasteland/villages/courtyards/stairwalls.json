@@ -16,7 +16,7 @@
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
-            "weight": 4
+            "weight": 2
         },
         {
             "element": {
@@ -34,7 +34,7 @@
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
-            "weight": 8
+            "weight": 4
         }
     ],
     "fallback": "minecraft:empty"
