@@ -1,0 +1,50 @@
+{
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/courtyard/room/edge_up_1",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/courtyard/room/edge_up_2",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/courtyard/room/edge_up_3",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/courtyard/room/edge_up_4",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/courtyard/room/edge_up_5",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

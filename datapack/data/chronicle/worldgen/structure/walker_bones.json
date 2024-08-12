@@ -1022,6 +1022,6 @@
             ]
         }
     ],
-    "step": "surface_structures",
+    "step": "underground_structures",
     "use_expansion_hack": false
 }

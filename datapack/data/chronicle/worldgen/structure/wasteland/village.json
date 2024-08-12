@@ -1,0 +1,57 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#chronicle:contains_wasteland_villages",
+    "liquid_settings": "ignore_waterlogging",
+    "max_distance_from_center": 32,
+    "project_start_to_heightmap": "WORLD_SURFACE",
+    "size": 8,
+    "spawn_overrides": {},
+    "start_height": {
+        "absolute": 0
+    },
+    "start_pool": "chronicle:wasteland/villages/seeds",
+    "pool_aliases": [
+        {
+            "type": "direct",
+            "alias": "chronicle:village_roots",
+            "target": "chronicle:wasteland/villages/roots"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edges",
+            "target": "chronicle:wasteland/villages/courtyards/edges/edges"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_gates",
+            "target": "chronicle:wasteland/villages/courtyards/edges/gates"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_rooms",
+            "target": "chronicle:wasteland/villages/courtyards/edges/rooms"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_rooms_up",
+            "target": "chronicle:wasteland/villages/courtyards/edges/rooms_up"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_windows",
+            "target": "chronicle:wasteland/villages/courtyards/edges/windows"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_stairwalls",
+            "target": "chronicle:wasteland/villages/courtyards/stairwalls"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_walls",
+            "target": "chronicle:wasteland/villages/courtyards/walls"
+        }
+    ],
+    "step": "surface_structures",
+    "use_expansion_hack": false
+}
