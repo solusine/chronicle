@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_1",
+                "location": "chronicle:wasteland/village/decor/up/decor_1",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -12,7 +12,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_2",
+                "location": "chronicle:wasteland/village/decor/up/decor_2",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -21,7 +21,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_3",
+                "location": "chronicle:wasteland/village/decor/up/decor_3",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -30,7 +30,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_4",
+                "location": "chronicle:wasteland/village/decor/up/decor_4",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -39,7 +39,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_5",
+                "location": "chronicle:wasteland/village/decor/up/decor_5",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -48,7 +48,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_6",
+                "location": "chronicle:wasteland/village/decor/up/decor_6",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -57,7 +57,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_7",
+                "location": "chronicle:wasteland/village/decor/up/decor_7",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -66,7 +66,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_8",
+                "location": "chronicle:wasteland/village/decor/up/decor_8",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -75,7 +75,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_9",
+                "location": "chronicle:wasteland/village/decor/up/decor_9",
                 "processors": [],
                 "projection": "rigid"
             },
@@ -84,20 +84,20 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_10",
+                "location": "chronicle:wasteland/village/decor/up/decor_10",
+                "processors": [],
+                "projection": "rigid"
+            },
+            "weight": 4
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/decor/up/decor_11",
                 "processors": [],
                 "projection": "rigid"
             },
             "weight": 2
-        },
-        {
-            "element": {
-                "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/decor/side/decor_11",
-                "processors": [],
-                "projection": "rigid"
-            },
-            "weight": 1
         },
         {
             "element": {

@@ -169,7 +169,7 @@
                 "processors": [],
                 "projection": "rigid"
             },
-            "weight": 2
+            "weight": 4
         },
         {
             "element": {
@@ -178,7 +178,7 @@
                 "processors": [],
                 "projection": "rigid"
             },
-            "weight": 2
+            "weight": 4
         },
         {
             "element": {
@@ -187,7 +187,7 @@
                 "processors": [],
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
@@ -196,18 +196,22 @@
                 "processors": [],
                 "projection": "rigid"
             },
-            "weight": 1
+            "weight": 2
         },
         {
             "element": {
-                "element_type": "minecraft:empty_pool_element",
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/decor/tall/decor_12a",
+                "processors": [],
                 "projection": "rigid"
             },
             "weight": 128
         },
         {
             "element": {
-                "element_type": "minecraft:empty_pool_element",
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/decor/tall/decor_12b",
+                "processors": [],
                 "projection": "rigid"
             },
             "weight": 128

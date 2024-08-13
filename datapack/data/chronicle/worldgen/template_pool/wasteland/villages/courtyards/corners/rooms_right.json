@@ -26,6 +26,15 @@
                 "projection": "rigid"
             },
             "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/courtyard/room/corner_right_4",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
         }
     ],
     "fallback": "minecraft:empty"

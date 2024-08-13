@@ -23,13 +23,13 @@
         },
         {
             "type": "direct",
-            "alias": "chronicle:side_decoration",
-            "target": "chronicle:wasteland/villages/side_decoration"
+            "alias": "chronicle:decoration_up",
+            "target": "chronicle:wasteland/villages/decoration_up"
         },
         {
             "type": "direct",
             "alias": "chronicle:tall_decoration",
-            "target": "chronicle:wasteland/villages/tall_decoration"
+            "target": "chronicle:wasteland/villages/decoration_tall"
         },
         {
             "type": "direct",
