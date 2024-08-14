@@ -33,6 +33,11 @@
         },
         {
             "type": "direct",
+            "alias": "chronicle:tunnels",
+            "target": "chronicle:wasteland/villages/tunnels"
+        },
+        {
+            "type": "direct",
             "alias": "chronicle:courtyard_corners",
             "target": "chronicle:wasteland/villages/courtyards/corners/corners"
         },
