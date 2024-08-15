@@ -16,7 +16,7 @@
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
-            "weight": 32
+            "weight": 24
         },
         {
             "element": {
@@ -53,6 +53,13 @@
                 "projection": "rigid"
             },
             "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:empty_pool_element",
+                "projection": "rigid"
+            },
+            "weight": 8
         }
     ],
     "fallback": "minecraft:empty"

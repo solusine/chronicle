@@ -2,9 +2,9 @@
     "type": "minecraft:jigsaw",
     "biomes": "#chronicle:contains_wasteland_villages",
     "liquid_settings": "ignore_waterlogging",
-    "max_distance_from_center": 32,
+    "max_distance_from_center": 64,
     "project_start_to_heightmap": "WORLD_SURFACE",
-    "size": 16,
+    "size": 8,
     "spawn_overrides": {},
     "start_height": {
         "absolute": 0
@@ -33,8 +33,23 @@
         },
         {
             "type": "direct",
+            "alias": "chronicle:tunnel_doors",
+            "target": "chronicle:wasteland/villages/tunnels/doors"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tunnel_roots",
+            "target": "chronicle:wasteland/villages/tunnels/roots"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tunnel_walls",
+            "target": "chronicle:wasteland/villages/tunnels/walls"
+        },
+        {
+            "type": "direct",
             "alias": "chronicle:tunnels",
-            "target": "chronicle:wasteland/villages/tunnels"
+            "target": "chronicle:wasteland/villages/tunnels/tunnels"
         },
         {
             "type": "direct",
