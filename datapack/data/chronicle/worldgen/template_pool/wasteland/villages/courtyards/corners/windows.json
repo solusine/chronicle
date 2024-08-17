@@ -19,5 +19,5 @@
             "weight": 2
         }
     ],
-    "fallback": "minecraft:empty"
+    "fallback": "chronicle:wasteland/villages/courtyards/corners/windows"
 }

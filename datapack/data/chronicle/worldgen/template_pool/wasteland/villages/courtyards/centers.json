@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/corner/corner_1",
+                "location": "chronicle:wasteland/village/courtyard/center_1",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
@@ -12,7 +12,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/corner/corner_2",
+                "location": "chronicle:wasteland/village/courtyard/center_2",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
@@ -21,20 +21,27 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/corner/corner_3",
-                "processors": "chronicle:mudifier",
-                "projection": "rigid"
-            },
-            "weight": 2
-        },
-        {
-            "element": {
-                "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/corner/corner_4",
+                "location": "chronicle:wasteland/village/courtyard/center_3",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
             "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/courtyard/center_4",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:empty_pool_element",
+                "projection": "rigid"
+            },
+            "weight": 4
         }
     ],
     "fallback": "minecraft:empty"

@@ -38,6 +38,11 @@
         },
         {
             "type": "direct",
+            "alias": "chronicle:tunnel_rooms",
+            "target": "chronicle:wasteland/villages/tunnels/rooms"
+        },
+        {
+            "type": "direct",
             "alias": "chronicle:tunnel_roots",
             "target": "chronicle:wasteland/villages/tunnels/roots"
         },
@@ -53,8 +58,13 @@
         },
         {
             "type": "direct",
+            "alias": "chronicle:courtyard_centers",
+            "target": "chronicle:wasteland/villages/courtyards/centers"
+        },
+        {
+            "type": "direct",
             "alias": "chronicle:courtyard_corners",
-            "target": "chronicle:wasteland/villages/courtyards/corners/corners"
+            "target": "chronicle:wasteland/villages/courtyards/corners"
         },
         {
             "type": "direct",
@@ -79,7 +89,7 @@
         {
             "type": "direct",
             "alias": "chronicle:courtyard_edges",
-            "target": "chronicle:wasteland/villages/courtyards/edges/edges"
+            "target": "chronicle:wasteland/villages/courtyards/edges"
         },
         {
             "type": "direct",

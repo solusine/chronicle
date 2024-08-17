@@ -3,7 +3,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/edge/edge_1",
+                "location": "chronicle:wasteland/village/courtyard/corner_1",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
@@ -12,7 +12,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/edge/edge_2",
+                "location": "chronicle:wasteland/village/courtyard/corner_2",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
@@ -21,7 +21,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/edge/edge_3",
+                "location": "chronicle:wasteland/village/courtyard/corner_3",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
@@ -30,7 +30,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "chronicle:wasteland/village/courtyard/edge/edge_4",
+                "location": "chronicle:wasteland/village/courtyard/corner_4",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
             },
