@@ -35,6 +35,85 @@
                 "projection": "rigid"
             },
             "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_1",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_2",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_3",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_4",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_5",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_6",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_7",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/hut_8",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:empty_pool_element",
+                "projection": "rigid"
+            },
+            "weight": 16
         }
     ],
     "fallback": "minecraft:empty"
