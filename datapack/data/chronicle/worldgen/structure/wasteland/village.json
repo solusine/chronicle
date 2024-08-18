@@ -120,6 +120,16 @@
             "type": "direct",
             "alias": "chronicle:courtyard_walls",
             "target": "chronicle:wasteland/villages/courtyards/walls"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:village_paths",
+            "target": "chronicle:wasteland/villages/paths"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:village_path_stops",
+            "target": "chronicle:wasteland/villages/stops"
         }
     ],
     "step": "top_layer_modification",
