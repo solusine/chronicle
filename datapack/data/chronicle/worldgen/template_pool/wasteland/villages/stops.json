@@ -3,6 +3,51 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/big_hut_1",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/big_hut_2",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/big_hut_3",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/big_hut_4",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/stop/big_hut_5",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
                 "location": "chronicle:wasteland/village/stop/fence_1",
                 "processors": "chronicle:mudifier",
                 "projection": "rigid"
