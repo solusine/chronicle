@@ -1,0 +1,137 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#chronicle:contains_wasteland_villages",
+    "liquid_settings": "ignore_waterlogging",
+    "max_distance_from_center": 64,
+    "project_start_to_heightmap": "WORLD_SURFACE",
+    "size": 8,
+    "spawn_overrides": {},
+    "start_height": {
+        "absolute": 0
+    },
+    "start_pool": "chronicle:wasteland/villages/seeds",
+    "pool_aliases": [
+        {
+            "type": "direct",
+            "alias": "chronicle:village_roots",
+            "target": "chronicle:wasteland/villages/roots"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:decoration",
+            "target": "chronicle:wasteland/villages/decoration"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:decoration_up",
+            "target": "chronicle:wasteland/villages/decoration_up"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tall_decoration",
+            "target": "chronicle:wasteland/villages/decoration_tall"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tunnel_doors",
+            "target": "chronicle:wasteland/villages/tunnels/doors"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tunnel_rooms",
+            "target": "chronicle:wasteland/villages/tunnels/rooms"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tunnel_roots",
+            "target": "chronicle:wasteland/villages/tunnels/roots"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tunnel_walls",
+            "target": "chronicle:wasteland/villages/tunnels/walls"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:tunnels",
+            "target": "chronicle:wasteland/villages/tunnels/tunnels"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_centers",
+            "target": "chronicle:wasteland/villages/courtyards/centers"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_corners",
+            "target": "chronicle:wasteland/villages/courtyards/corners"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_corner_gates",
+            "target": "chronicle:wasteland/villages/courtyards/corners/gates"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_corner_rooms_left",
+            "target": "chronicle:wasteland/villages/courtyards/corners/rooms_left"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_corner_rooms_right",
+            "target": "chronicle:wasteland/villages/courtyards/corners/rooms_right"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_corner_windows",
+            "target": "chronicle:wasteland/villages/courtyards/corners/windows"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edges",
+            "target": "chronicle:wasteland/villages/courtyards/edges"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_gates",
+            "target": "chronicle:wasteland/villages/courtyards/edges/gates"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_rooms",
+            "target": "chronicle:wasteland/villages/courtyards/edges/rooms"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_rooms_up",
+            "target": "chronicle:wasteland/villages/courtyards/edges/rooms_up"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_edge_windows",
+            "target": "chronicle:wasteland/villages/courtyards/edges/windows"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_stairwalls",
+            "target": "chronicle:wasteland/villages/courtyards/stairwalls"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:courtyard_walls",
+            "target": "chronicle:wasteland/villages/courtyards/walls"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:village_paths",
+            "target": "chronicle:wasteland/villages/paths"
+        },
+        {
+            "type": "direct",
+            "alias": "chronicle:village_path_stops",
+            "target": "chronicle:wasteland/villages/stops"
+        }
+    ],
+    "step": "top_layer_modification",
+    "use_expansion_hack": false
+}

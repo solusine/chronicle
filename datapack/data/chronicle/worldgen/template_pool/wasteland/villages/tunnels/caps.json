@@ -1,0 +1,23 @@
+{
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/tunnel/tunnel_1",
+                "processors": "chronicle:mudifier",
+                "projection": "rigid"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/tunnel/tunnel_6",
+                "processors": "chronicle:ritualism",
+                "projection": "rigid"
+            },
+            "weight": 1
+        }
+    ],
+    "fallback": "chronicle:wasteland/villages/tunnels/caps"
+}

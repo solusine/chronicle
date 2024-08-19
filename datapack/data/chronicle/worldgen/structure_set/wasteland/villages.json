@@ -1,0 +1,14 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 62831853,
+        "separation": 32,
+        "spacing": 64
+    },
+    "structures": [
+        {
+            "structure": "chronicle:wasteland/village",
+            "weight": 1
+        }
+    ]
+}

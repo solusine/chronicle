@@ -1,0 +1,50 @@
+{
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/path/path_1",
+                "processors": "chronicle:mudifier",
+                "projection": "terrain_matching"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/path/path_2",
+                "processors": "chronicle:mudifier",
+                "projection": "terrain_matching"
+            },
+            "weight": 32
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/path/path_3",
+                "processors": "chronicle:mudifier",
+                "projection": "terrain_matching"
+            },
+            "weight": 4
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/path/path_4",
+                "processors": "chronicle:mudifier",
+                "projection": "terrain_matching"
+            },
+            "weight": 4
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "chronicle:wasteland/village/path/path_5",
+                "processors": "chronicle:mudifier",
+                "projection": "terrain_matching"
+            },
+            "weight": 1
+        }
+    ],
+    "fallback": "minecraft:empty"
+}
